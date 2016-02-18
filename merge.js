@@ -1,1 +1,2 @@
-alert(window);
+window.alert(window);
+
